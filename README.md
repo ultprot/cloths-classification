@@ -22,8 +22,8 @@ simple cloths classification using tensorflow's inception example
 
 ---
 ### 데이터
-filedownload.py를 사용하여 data폴더에 사진을 받습니다.<br>
-원하는 라벨별로 폴더를 만들어서 사진들을 분류해서 다운받아야 합니다.현재의 data폴더는 의류를 분류하는 상황의 예제입니다.<br>
+사진을 저장할 디렉토리를 만들고, 하위에 분류할 라벨별로 디렉토리를 생성합니다.<br>
+filedownload.py를 사용하여 원하는 라벨별로 분류된 디렉토리에 각각 사진을 받습니다.<br>
 사진을 확인하여 불필요한 파일을 제거합니다.<br>
 <br>
 
